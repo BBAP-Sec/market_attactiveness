@@ -4,6 +4,9 @@ A sophisticated AI-powered market intelligence platform designed to help SMEs (S
 
 ![Dashboard Preview](https://marketintell.netlify.app)
 
+![Dashboard Preview](https://github.com/BBAP-Sec/market_attactiveness/blob/main/market%20int.png)
+
+
 ## ✨ Features
 
 ### 🎯 **Core Analytics**
