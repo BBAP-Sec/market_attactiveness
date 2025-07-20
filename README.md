@@ -2,7 +2,7 @@
 
 A sophisticated AI-powered market intelligence platform designed to help SMEs (Small and Medium Enterprises) make data-driven decisions for international market expansion. Built with React, TypeScript, and modern web technologies.
 
-![Dashboard Preview](https://via.placeholder.com/800x400/064e3b/10b981?text=Market+Intelligence+Dashboard)
+![Dashboard Preview](https://marketintell.netlify.app)
 
 ## ✨ Features
 
@@ -13,31 +13,14 @@ A sophisticated AI-powered market intelligence platform designed to help SMEs (S
 - **Model Performance** - Random Forest model accuracy and reliability metrics
 - **Scenario Analysis** - Interactive market simulation with custom parameters
 
-### 🎨 **Design Excellence**
-- **Dark Green Theme** - Professional forest green color palette
-- **Glassmorphism UI** - Modern translucent cards with blur effects
-- **Responsive Design** - Optimized for desktop, tablet, and mobile
-- **Smooth Animations** - Polished micro-interactions throughout
-- **Interactive Charts** - Real-time data visualization with hover states
 
-### 🤖 **AI-Powered Intelligence**
-- Random Forest regression model for market scoring
-- Feature importance analysis using machine learning
-- Confidence interval predictions for risk assessment
-- Real-time scenario modeling with instant predictions
-
-## 🚀 Quick Start
-
-### Prerequisites
-- Node.js 18+ 
-- npm, yarn, or pnpm
 
 ### Installation
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd market-attractiveness-dashboard
+   git clone <https://github.com/BBAP-Sec/market_attactiveness.git>
+   cd market-attractiveness
    ```
 
 2. **Install dependencies**
@@ -83,69 +66,6 @@ The dashboard analyzes markets based on these key factors:
 ### Trade Environment
 - **Tariff Rates** - Trade barriers and market accessibility
 - **SME Industry Focus** - Sector-specific opportunities (IT, Manufacturing, Agriculture)
-
-## 🏗️ Project Structure
-
-```
-src/
-├── components/           # React components
-│   ├── charts/          # Chart components
-│   │   ├── RankingChart.tsx
-│   │   ├── RadarChart.tsx
-│   │   ├── ConfidenceChart.tsx
-│   │   ├── FeatureImportanceChart.tsx
-│   │   └── CorrelationMatrix.tsx
-│   ├── MarketRankings.tsx
-│   ├── FeatureAnalysis.tsx
-│   ├── CountryComparison.tsx
-│   ├── ModelPerformance.tsx
-│   ├── ScenarioAnalysis.tsx
-│   └── MetricCard.tsx
-├── utils/               # Utility functions
-│   └── dataUtils.ts     # Data processing and ML utilities
-├── styles/              # Global styles
-│   └── globals.css      # Custom CSS and animations
-├── App.tsx              # Main application component
-├── main.tsx             # Application entry point
-└── index.css            # Tailwind CSS imports
-```
-
-## 🎨 Design System
-
-### Color Palette
-- **Primary**: Deep Forest Green (#064e3b)
-- **Secondary**: Emerald Green (#065f46)
-- **Accent**: Bright Emerald (#10b981)
-- **Background**: Dark Slate (#0f172a)
-- **Text**: Light Emerald (#6ee7b7)
-
-### Typography
-- **Headings**: Inter font family, bold weights
-- **Body**: Inter font family, regular weights
-- **Code**: Monospace font family
-
-### Components
-- **Glass Cards**: Translucent backgrounds with backdrop blur
-- **Gradient Buttons**: Smooth color transitions with hover effects
-- **Interactive Charts**: Custom SVG visualizations with animations
-- **Responsive Grid**: CSS Grid and Flexbox layouts
-
-## 🔧 Technology Stack
-
-### Frontend
-- **React 18** - Modern React with hooks and concurrent features
-- **TypeScript** - Type-safe development with excellent IDE support
-- **Tailwind CSS** - Utility-first CSS framework for rapid styling
-- **Vite** - Fast build tool with hot module replacement
-
-### Icons & Assets
-- **Lucide React** - Beautiful, customizable SVG icons
-- **Custom SVG Charts** - Hand-crafted data visualizations
-
-### Development Tools
-- **ESLint** - Code linting and quality enforcement
-- **PostCSS** - CSS processing and optimization
-- **Autoprefixer** - Automatic vendor prefix handling
 
 ## 📈 Usage Guide
 
@@ -238,30 +158,10 @@ We welcome contributions! Please follow these steps:
 - Add comments for complex logic
 - Test your changes thoroughly
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Data Sources** - Economic indicators from various international organizations
-- **Design Inspiration** - Modern dashboard designs and data visualization best practices
-- **Open Source Libraries** - React, TypeScript, Tailwind CSS, and the entire open source community
-
-## 📞 Support
-
-For questions, issues, or feature requests:
-
-- **GitHub Issues** - Report bugs and request features
-- **Documentation** - Check the inline code comments and this README
-- **Community** - Join discussions in the repository
-
 ---
 
 <div align="center">
 
 **Built with ❤️ for SME market expansion**
-
-[Demo](https://your-demo-url.com) • [Documentation](https://your-docs-url.com) • [Report Bug](https://github.com/your-repo/issues) • [Request Feature](https://github.com/your-repo/issues)
 
 </div>
