@@ -2,7 +2,7 @@
 
 A sophisticated AI-powered market intelligence platform designed to help SMEs (Small and Medium Enterprises) make data-driven decisions for international market expansion. Built with React, TypeScript, and modern web technologies.
 
-![Dashboard Preview](https://marketintell.netlify.app)
+https://marketintell.netlify.app
 
 ![Dashboard Preview](https://github.com/BBAP-Sec/market_attactiveness/blob/main/market%20int.png)
 
